@@ -1,0 +1,9 @@
+Identifica las características principales de los patrones de diseño más conocidos, indica para qué valen y un caso de uso para cada uno de ellos.
+
+En esta web podemos ver los 22 patronces de diseño principales y sus características, ventajas y desventajas:
+https://refactoring.guru/es/design-patterns/catalog
+
+
+
+Crea una pequeña aplicación implementando el patrón Singlenton y demuestra que, efectivamente, no crea instancias nuevas. Puedes tomar la sesión 7 como referencia.
+
